@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A pragram that prints the size of various types on the computer it is compiled and run on
+ * main - A pragram that prints the size of various types on the computer
  * Return: 0 (success)
  */
 int main(void)
